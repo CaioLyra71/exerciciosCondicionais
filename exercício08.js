@@ -1,5 +1,5 @@
 const idade = 18
-const patologia = true
+const patologia = false
 const altura = 180
 const ehEstudante = false
 
